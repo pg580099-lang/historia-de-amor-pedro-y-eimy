@@ -1,0 +1,37 @@
+PROYECTO PERSONALIZADO: PEDRO & EIMY
+
+ARCHIVOS
+- index.html: contenido y estructura de la página.
+- css/estilos.css: colores, diseño adaptable y animaciones.
+- js/script.js: contador de tiempo y botón de navegación.
+- img/: coloca aquí tus fotografías.
+
+CÓMO ABRIR
+1. Descomprime el archivo ZIP.
+2. Abre Visual Studio Code.
+3. Ve a Archivo > Abrir carpeta y elige esta carpeta.
+4. Abre index.html en Google Chrome. También puedes instalar Live Server
+   en VS Code y seleccionar "Open with Live Server".
+
+CÓMO AGREGAR FOTOS
+Copia tres fotografías de ustedes a la carpeta img y nómbralas:
+- foto1.jpg
+- foto2.jpg
+- foto3.jpg
+Opcionalmente agrega una imagen de fondo llamada fondo.jpg.
+Si tus fotos son PNG, cambia también la extensión en las rutas de index.html.
+
+CÓMO AGREGAR UNA CANCIÓN DE YOUTUBE
+En index.html busca VIDEO_ID.
+Cambia ese texto por el identificador del video.
+Ejemplo: para https://www.youtube.com/watch?v=AbCd123 el ID es AbCd123.
+La reproducción automática puede estar bloqueada por el navegador.
+
+CONTADOR
+Ya está configurado desde el 25 de enero de 2023. Se actualiza cada segundo.
+
+PERSONALIZACIÓN
+Puedes cambiar los textos de la carta en index.html y los colores al principio
+de css/estilos.css, dentro de :root.
+La tipografía de Google Fonts requiere conexión a Internet; el sitio seguirá
+funcionando sin ella con una tipografía alternativa.
